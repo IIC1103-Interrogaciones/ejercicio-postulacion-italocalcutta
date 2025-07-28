@@ -9,6 +9,7 @@ partidos = [
     ["nombre equipo2", "nombre equipo3"],
 ]
 
-equipo = "nombre_equipo1"
+equipo = "nombre_equipo1".
+
 obtener_proximos(partidos, equipo)
 
