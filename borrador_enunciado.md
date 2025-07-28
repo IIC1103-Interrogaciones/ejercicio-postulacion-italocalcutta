@@ -1,6 +1,6 @@
 Tienes que organizar las proximas fechas del DCCampeonato de futbol. En este campeonato todos deben jugar contra todos 1 vez .
 
-Definir Funcion obtener_proximos, todos los partidos y el nombre de un  equipo, retorna lista de todos los equipos con lo que aun no juega.
+Definir Funcion obtener_proximos, que recibe todos los partidos que se jugaran y el nombre de un  equipo, retorna lista de todos los equipos con lo que este equipo no jugará.
 
 partidos = [
     ["nombre equipo1", "nombre equipo2"], 
